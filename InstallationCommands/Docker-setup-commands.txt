@@ -1,9 +1,3 @@
- 10.67.115.130
- 
--- Create t2.2xlarge ec2 instance with Amazon Linux 2 AMI (HVM)
-Storage- 96 GB
-Allow ports- 0-10000
-
 -- Connect to the instance using SSH
 
 ssh -i "hive_docker_setup.pem" ec2-user@ec2-54-215-208-0.us-west-1.compute.amazonaws.com
